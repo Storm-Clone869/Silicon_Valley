@@ -1,6 +1,6 @@
 ///
 /// @file
-/// @author Julius Pettersson
+/// @author Storm-Clone869@GitHub
 /// @copyright MIT/Expat License.
 /// @brief LZW file compressor
 /// @version 1
@@ -15,6 +15,7 @@
 /// @see http://warp.povusers.org/EfficientLZW/index.html
 /// @see http://en.cppreference.com/
 /// @see http://www.doxygen.org/
+///This code works comparatively slower than the normal Lempel-Ziv
 ///
 
 #include <cstdint>
