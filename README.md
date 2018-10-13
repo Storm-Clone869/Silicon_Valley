@@ -1,1 +1,1 @@
-A fan-made infosite for the HBO hit TV series - Silicon Valley 
+A fan-made site for the HBO TV series, Silicon Valley 
